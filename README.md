@@ -22,7 +22,7 @@ It converts model geometries into the standard `glTF 2.0` format (`.gltf` + `.bi
 
 To respect the copyrights of other creators, **external helper tools are NOT bundled** in this repository. You must download them separately and place them in the `tools/` folder:
 
-1. **FFXII Asset Converter (`FFXIIConvert.exe`):** Download from [Roelin's FFXII Asset Converter GitHub Repository](https://github.com/roelin/FFXIIConvert).
+1. **FFXII Asset Converter (`FFXIIConvert.exe`):** Download from [FFXII Asset Converter on Nexus Mods](https://www.nexusmods.com/finalfantasy12/mods/288).
 2. **Noesis (`Noesis64.exe`):** Download from [Rich Whitehouse's Official Noesis Page](https://www.richwhitehouse.com/index.php?content=showprograms.php).
 3. **DDS Compiler (Choose one or both):**
    * **Microsoft DirectXTex (`texconv.exe`):** Download from [Microsoft's DirectXTex Repository](https://github.com/microsoft/DirectXTex).
